@@ -1,0 +1,17 @@
+{
+  "name": "weekend-2",
+  "version": "1.0.0",
+  "description": "- [X] plan - [ ] set up project - [ ] gitignore and init commit - [ ] npm init and install packages - [ ] spin up server and src files correctly - [ ] build up back end and test it - [ ] refactor to module - [ ] test all paths \t- { \"x\": \"3\", \"y\": \"4\", \"type\": \"add\" } \t- { \"x\": \"3\", \"y\": \"4\", \"type\": \"subtract\" } \t- { \"x\": \"3\", \"y\": \"4\", \"type\": \"multiply\" } \t- { \"x\": \"3\", \"y\": \"4\", \"type\": \"divide\" } \t- { \"x\": \"3\", \"y\": \"4\", \"type\": \"typoasf\" } - [ ] add form - [ ] wire up client \t- click event and send data \t- append to DOM \t- check for number inputs w/ isNan \t- clear function",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}

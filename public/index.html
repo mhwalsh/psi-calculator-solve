@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Calculator App</title>
+    <script src="vendors/jquery.min.js"></script>
+    <script src="scripts/client.js"></script>
+  </head>
+  <body>
+    <h2>Calculate Me!</h2>
+    <form>
+      <input id="val1" type="text" >
+      <select id="operator">
+        <option value="add">+</option>
+        <option value="subtract">-</option>
+        <option value="multiply">*</option>
+        <option value="divide">/</option>
+      </select>
+      <input id="val2" type="text">
+      <input id="calculate" type="button" value="Calculate">
+      <input id="clear" type="button" value="Clear">
+    </form>
+    <div id="answerDiv"></div>
+  </body>
+</html>
