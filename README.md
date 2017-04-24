@@ -1,11 +1,11 @@
 ## Todos
 
 - [X] plan
-- [ ] set up project
-- [ ] gitignore and init commit
-- [ ] npm init and install packages
-- [ ] spin up server and src files correctly
-- [ ] build up back end and test it
+- [X] set up project
+- [X] gitignore and init commit
+- [X] npm init and install packages
+- [X] spin up server and src files correctly
+- [X] build up back end and test it
 - [ ] refactor to module
 - [ ] test all paths
 	- { "x": "3", "y": "4", "type": "add" }
